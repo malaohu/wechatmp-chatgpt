@@ -1,0 +1,6 @@
+{
+  "port":"8001",
+  "api_key": "openai api key",
+  "wx_app_id": "wechat app id",
+  "wx_token":"wechat token"
+}
